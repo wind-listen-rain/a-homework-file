@@ -1,0 +1,3055 @@
+[
+  {
+    "element_id": "021543dc",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 100.546875,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "0339abd4",
+    "environment": "github",
+    "bbox": {
+      "x": 117.13251495361328,
+      "y": 182.52200317382812,
+      "width": 257.4928207397461,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "1121c2f2",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 100.546875,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "12f48fab",
+    "environment": "github",
+    "bbox": {
+      "x": 112,
+      "y": 130,
+      "width": 260.09375,
+      "height": 45
+    },
+    "semantic_concept": "edit",
+    "affordance_space": [
+      "modify",
+      "compose",
+      "update"
+    ],
+    "subfunctions": [
+      "text",
+      "content",
+      "format"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "173c3483",
+    "environment": "github",
+    "bbox": {
+      "x": 656.57421875,
+      "y": 118.1719970703125,
+      "width": 239.19329833984375,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "19146083",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 182.52200317382812,
+      "width": 202.7489013671875,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "2176c56b",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 100.546875,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "2bed4b1d",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 118.1719970703125,
+      "width": 202.7489013671875,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "2d2728f0",
+    "environment": "github",
+    "bbox": {
+      "x": 117.13251495361328,
+      "y": 246.87200927734375,
+      "width": 257.4928207397461,
+      "height": 44.54998779296875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "3ba0513e",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 1168,
+      "height": 40
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "3cdf030c",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 246.87200927734375,
+      "width": 202.7489013671875,
+      "height": 44.54998779296875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "488f04f7",
+    "environment": "github",
+    "bbox": {
+      "x": 32,
+      "y": 19,
+      "width": 32,
+      "height": 34
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "4b0efdd6",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 246.87200927734375,
+      "width": 202.7489013671875,
+      "height": 44.54998779296875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "59809738",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 1168,
+      "height": 40
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "5c3250dc",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 635.34375,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "69b39c10",
+    "environment": "github",
+    "bbox": {
+      "x": 112,
+      "y": 130,
+      "width": 260.09375,
+      "height": 45
+    },
+    "semantic_concept": "edit",
+    "affordance_space": [
+      "modify",
+      "compose",
+      "update"
+    ],
+    "subfunctions": [
+      "text",
+      "content",
+      "format"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "6be4bb16",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 100.546875,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "6d06eb09",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 1168,
+      "height": 40
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "731661aa",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 635.34375,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "7e5cee5b",
+    "environment": "github",
+    "bbox": {
+      "x": 117.13251495361328,
+      "y": 246.87200927734375,
+      "width": 257.4928207397461,
+      "height": 44.54998779296875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "861d85e7",
+    "environment": "github",
+    "bbox": {
+      "x": 656.57421875,
+      "y": 182.52200317382812,
+      "width": 239.19329833984375,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "9daf4f87",
+    "environment": "github",
+    "bbox": {
+      "x": 32,
+      "y": 19,
+      "width": 32,
+      "height": 34
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "be2309f8",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 182.52200317382812,
+      "width": 202.7489013671875,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "cc174fd6",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 118.1719970703125,
+      "width": 202.7489013671875,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "d9b6ec01",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 635.34375,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "f2fc9d2e",
+    "environment": "github",
+    "bbox": {
+      "x": 80,
+      "y": 16,
+      "width": 100.546875,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "f33f760a",
+    "environment": "github",
+    "bbox": {
+      "x": 117.13251495361328,
+      "y": 182.52200317382812,
+      "width": 257.4928207397461,
+      "height": 44.55000305175781
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "f93b2c4a",
+    "environment": "github",
+    "bbox": {
+      "x": 32,
+      "y": 19,
+      "width": 32,
+      "height": 34
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "ffc1b6ea",
+    "environment": "github",
+    "bbox": {
+      "x": 414.225341796875,
+      "y": 311.22198486328125,
+      "width": 202.7489013671875,
+      "height": 44.550018310546875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "0f2545c8",
+    "environment": "youtube",
+    "bbox": {
+      "x": 16,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "140f0235",
+    "environment": "youtube",
+    "bbox": {
+      "x": 16,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "15526756",
+    "environment": "youtube",
+    "bbox": {
+      "x": 24,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "3c05edf4",
+    "environment": "youtube",
+    "bbox": {
+      "x": 4,
+      "y": 60,
+      "width": 64,
+      "height": 76
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "47067e0d",
+    "environment": "youtube",
+    "bbox": {
+      "x": 878,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "47ef14ad",
+    "environment": "youtube",
+    "bbox": {
+      "x": 938,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "4f640c15",
+    "environment": "youtube",
+    "bbox": {
+      "x": 1132,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "577de4ea",
+    "environment": "youtube",
+    "bbox": {
+      "x": 339,
+      "y": 16,
+      "width": 515,
+      "height": 24
+    },
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "5924b92b",
+    "environment": "youtube",
+    "bbox": {
+      "x": 4,
+      "y": 60,
+      "width": 64,
+      "height": 76
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "7d225bee",
+    "environment": "youtube",
+    "bbox": {
+      "x": 24,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "8f68e93e",
+    "environment": "youtube",
+    "bbox": {
+      "x": 16,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "9065fbd5",
+    "environment": "youtube",
+    "bbox": {
+      "x": 1140,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "946ae849",
+    "environment": "youtube",
+    "bbox": {
+      "x": -216,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "b0a10ef6",
+    "environment": "youtube",
+    "bbox": {
+      "x": -228,
+      "y": 68,
+      "width": 204,
+      "height": 40
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "b11cc209",
+    "environment": "youtube",
+    "bbox": {
+      "x": 56,
+      "y": 0,
+      "width": 129,
+      "height": 56
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "b4b3a575",
+    "environment": "youtube",
+    "bbox": {
+      "x": 24,
+      "y": 76,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "b8d7bb9c",
+    "environment": "youtube",
+    "bbox": {
+      "x": 1132,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "c6a8c431",
+    "environment": "youtube",
+    "bbox": {
+      "x": 1132,
+      "y": 8,
+      "width": 40,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "d0df1b1f",
+    "environment": "youtube",
+    "bbox": {
+      "x": -168,
+      "y": 18,
+      "width": 93,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "d3320a63",
+    "environment": "youtube",
+    "bbox": {
+      "x": 24,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "d5a032da",
+    "environment": "youtube",
+    "bbox": {
+      "x": 858,
+      "y": 8,
+      "width": 64,
+      "height": 40
+    },
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "d713e8ed",
+    "environment": "youtube",
+    "bbox": {
+      "x": 1180,
+      "y": 8,
+      "width": 84,
+      "height": 40
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "e480180d",
+    "environment": "youtube",
+    "bbox": {
+      "x": 16,
+      "y": -1000,
+      "width": 88,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.7,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "e49e6dc8",
+    "environment": "youtube",
+    "bbox": {
+      "x": 1140,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "e81c5998",
+    "environment": "youtube",
+    "bbox": {
+      "x": 56,
+      "y": 0,
+      "width": 129,
+      "height": 56
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "f130d107",
+    "environment": "youtube",
+    "bbox": {
+      "x": 24,
+      "y": 16,
+      "width": 24,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "fa561f7d",
+    "environment": "youtube",
+    "bbox": {
+      "x": 4,
+      "y": 60,
+      "width": 64,
+      "height": 76
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "0319081e",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 363.890625,
+      "y": 267.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "11af5382",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 521.734375,
+      "y": 547.34375,
+      "width": 236.53125,
+      "height": 36
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "1e883a1a",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 694.59375,
+      "y": 137.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "21ee5896",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 694.59375,
+      "y": 137.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "2ee05691",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 12.796875,
+      "y": 547.34375,
+      "width": 1254.40625,
+      "height": 21
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "38a0400c",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 540,
+      "y": 198,
+      "width": 200,
+      "height": 183
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "3c3ab46d",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 374.8125,
+      "y": 202.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "4a288c26",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 429.40625,
+      "y": 137.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "500f43d6",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 414.90625,
+      "y": 471.84375,
+      "width": 394.1875,
+      "height": 44
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "5db34962",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 374.8125,
+      "y": 332.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "651406b5",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 295.015625,
+      "y": 627.34375,
+      "width": 47.90625,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "664c83b7",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 760.109375,
+      "y": 267.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "6ac2b08c",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 429.40625,
+      "y": 137.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "75f294a3",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 374.8125,
+      "y": 202.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "82403112",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 694.59375,
+      "y": 397.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "9139ac4c",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 295.015625,
+      "y": 651.140625,
+      "width": 35.078125,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "9f74c1ed",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 749.1875,
+      "y": 202.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "a3480f33",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 540,
+      "y": 198,
+      "width": 200,
+      "height": 183
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "acf1ca42",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 749.1875,
+      "y": 202.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "aef01088",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 534.734375,
+      "y": 554.34375,
+      "width": 22,
+      "height": 22
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "b4e641fb",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 429.40625,
+      "y": 397.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "c5e7abb8",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 826.09375,
+      "y": 483.84375,
+      "width": 22,
+      "height": 22
+    },
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "c8b2531a",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 154.234375,
+      "y": 627.34375,
+      "width": 38.578125,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "cc318c6a",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 154.234375,
+      "y": 651.140625,
+      "width": 50.140625,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "d8babe96",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 749.1875,
+      "y": 332.25,
+      "width": 156,
+      "height": 45.796875
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "e14189be",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 435.8125,
+      "y": 627.34375,
+      "width": 45.625,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "e38b3238",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 295.015625,
+      "y": 674.9375,
+      "width": 49.671875,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "e90cafd1",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 154.234375,
+      "y": 674.9375,
+      "width": 43.90625,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "ef370fa1",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 435.8125,
+      "y": 651.140625,
+      "width": 36.25,
+      "height": 19
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "f26ec440",
+    "environment": "wikipedia",
+    "bbox": {
+      "x": 809.09375,
+      "y": 471.84375,
+      "width": 56,
+      "height": 44
+    },
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "0767b741",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 448,
+      "y": 537.984375,
+      "width": 72.609375,
+      "height": 36
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "1c21baf6",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 456,
+      "y": 333.984375,
+      "width": 368,
+      "height": 56
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "20b39d0c",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 456,
+      "y": 482.984375,
+      "width": 171,
+      "height": 20
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "21e8e836",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 456,
+      "y": 398.984375,
+      "width": 85.5,
+      "height": 20
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "2847677e",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 456,
+      "y": 482.984375,
+      "width": 171,
+      "height": 20
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "44f386ed",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 456,
+      "y": 333.984375,
+      "width": 368,
+      "height": 56
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "4e98adc5",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 456,
+      "y": 398.984375,
+      "width": 85.5,
+      "height": 20
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "594a7c7f",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 603,
+      "y": 198,
+      "width": 74,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "5f5f1369",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 824,
+      "y": 650,
+      "width": 56,
+      "height": 48
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "b5dea646",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 733.546875,
+      "y": 537.984375,
+      "width": 90.453125,
+      "height": 36
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "c96f3a6f",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 733.546875,
+      "y": 537.984375,
+      "width": 90.453125,
+      "height": 36
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "dd56954a",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 700,
+      "y": 650,
+      "width": 56,
+      "height": 48
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "dea7302b",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 756,
+      "y": 650,
+      "width": 68,
+      "height": 48
+    },
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "f6a3dadd",
+    "environment": "google_drive",
+    "bbox": {
+      "x": 603,
+      "y": 198,
+      "width": 74,
+      "height": 24
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "0359f7cb",
+    "environment": "notion",
+    "bbox": {
+      "x": 291,
+      "y": 252,
+      "width": 47.484375,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "08dab036",
+    "environment": "notion",
+    "bbox": {
+      "x": 355,
+      "y": 110,
+      "width": 69.890625,
+      "height": 28
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "0b0a5593",
+    "environment": "notion",
+    "bbox": {
+      "x": 260.390625,
+      "y": 17,
+      "width": 91.109375,
+      "height": 30
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "0c82a547",
+    "environment": "notion",
+    "bbox": {
+      "x": 698.34375,
+      "y": 12,
+      "width": 119.3125,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "0f3b3d16",
+    "environment": "notion",
+    "bbox": {
+      "x": 243,
+      "y": 204,
+      "width": 248.65625,
+      "height": 44
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "0fe62074",
+    "environment": "notion",
+    "bbox": {
+      "x": 355,
+      "y": 138,
+      "width": 108.984375,
+      "height": 16
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "1aa0cb2a",
+    "environment": "notion",
+    "bbox": {
+      "x": 251,
+      "y": 84,
+      "width": 228.984375,
+      "height": 96
+    },
+    "semantic_concept": "setting",
+    "affordance_space": [
+      "configure",
+      "modify",
+      "personalize"
+    ],
+    "subfunctions": [
+      "account",
+      "theme",
+      "font",
+      "language"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "1d10a6d9",
+    "environment": "notion",
+    "bbox": {
+      "x": 243,
+      "y": 248,
+      "width": 248.65625,
+      "height": 44
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "22cb29ee",
+    "environment": "notion",
+    "bbox": {
+      "x": 291,
+      "y": 208,
+      "width": 61.65625,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "3b7ff8d9",
+    "environment": "notion",
+    "bbox": {
+      "x": 243,
+      "y": 248,
+      "width": 248.65625,
+      "height": 44
+    },
+    "semantic_concept": "setting",
+    "affordance_space": [
+      "configure",
+      "modify",
+      "personalize"
+    ],
+    "subfunctions": [
+      "account",
+      "theme",
+      "font",
+      "language"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "5da469b0",
+    "environment": "notion",
+    "bbox": {
+      "x": 788.328125,
+      "y": 92,
+      "width": 240.65625,
+      "height": 40
+    },
+    "semantic_concept": "setting",
+    "affordance_space": [
+      "configure",
+      "modify",
+      "personalize"
+    ],
+    "subfunctions": [
+      "account",
+      "theme",
+      "font",
+      "language"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "683b4820",
+    "environment": "notion",
+    "bbox": {
+      "x": 772.328125,
+      "y": 108,
+      "width": 264.65625,
+      "height": 80
+    },
+    "semantic_concept": "favorite",
+    "affordance_space": [
+      "save",
+      "unsave",
+      "retrieve"
+    ],
+    "subfunctions": [
+      "save",
+      "unsave",
+      "retrieve"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "6c836819",
+    "environment": "notion",
+    "bbox": {
+      "x": 836.328125,
+      "y": 102,
+      "width": 108.53125,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "73d72176",
+    "environment": "notion",
+    "bbox": {
+      "x": 698.34375,
+      "y": 12,
+      "width": 119.3125,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.45,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "7ba17820",
+    "environment": "notion",
+    "bbox": {
+      "x": 251,
+      "y": 84,
+      "width": 228.984375,
+      "height": 96
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "7c99c144",
+    "environment": "notion",
+    "bbox": {
+      "x": 788.328125,
+      "y": 92,
+      "width": 240.65625,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "90287060",
+    "environment": "notion",
+    "bbox": {
+      "x": 243,
+      "y": 204,
+      "width": 248.65625,
+      "height": 176
+    },
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "9ed04fe2",
+    "environment": "notion",
+    "bbox": {
+      "x": 788.328125,
+      "y": 132,
+      "width": 240.65625,
+      "height": 40
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "a01338a6",
+    "environment": "notion",
+    "bbox": {
+      "x": 251,
+      "y": 84,
+      "width": 517.328125,
+      "height": 96
+    },
+    "semantic_concept": "favorite",
+    "affordance_space": [
+      "save",
+      "unsave",
+      "retrieve"
+    ],
+    "subfunctions": [
+      "save",
+      "unsave",
+      "retrieve"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "bb866858",
+    "environment": "notion",
+    "bbox": {
+      "x": 796.328125,
+      "y": 96,
+      "width": 32,
+      "height": 32
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "cdbe4386",
+    "environment": "notion",
+    "bbox": {
+      "x": 24,
+      "y": 15,
+      "width": 33,
+      "height": 34
+    },
+    "semantic_concept": "home",
+    "affordance_space": [
+      "navigate",
+      "return",
+      "browse"
+    ],
+    "subfunctions": [
+      "dashboard",
+      "feed",
+      "landing"
+    ],
+    "confidence": 0.82,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "d121205a",
+    "environment": "notion",
+    "bbox": {
+      "x": 291,
+      "y": 228,
+      "width": 95.78125,
+      "height": 16
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "d726e2ae",
+    "environment": "notion",
+    "bbox": {
+      "x": 291,
+      "y": 272,
+      "width": 117.421875,
+      "height": 16
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "de9d0f56",
+    "environment": "notion",
+    "bbox": {
+      "x": 836.328125,
+      "y": 142,
+      "width": 75.59375,
+      "height": 20
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "f137caeb",
+    "environment": "notion",
+    "bbox": {
+      "x": 243,
+      "y": 204,
+      "width": 248.65625,
+      "height": 44
+    },
+    "semantic_concept": "setting",
+    "affordance_space": [
+      "configure",
+      "modify",
+      "personalize"
+    ],
+    "subfunctions": [
+      "account",
+      "theme",
+      "font",
+      "language"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 2
+  },
+  {
+    "element_id": "fab24b6c",
+    "environment": "notion",
+    "bbox": {
+      "x": 259,
+      "y": 92,
+      "width": 80,
+      "height": 80
+    },
+    "semantic_concept": "menu",
+    "affordance_space": [
+      "open",
+      "navigate",
+      "select"
+    ],
+    "subfunctions": [
+      "options",
+      "navigation",
+      "actions"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 1
+  },
+  {
+    "element_id": "fd2f2b0a",
+    "environment": "notion",
+    "bbox": {
+      "x": 243,
+      "y": 292,
+      "width": 248.65625,
+      "height": 44
+    },
+    "semantic_concept": "setting",
+    "affordance_space": [
+      "configure",
+      "modify",
+      "personalize"
+    ],
+    "subfunctions": [
+      "account",
+      "theme",
+      "font",
+      "language"
+    ],
+    "confidence": 0.5,
+    "method": "evidence_induction",
+    "trajectories": 1
+  }
+]

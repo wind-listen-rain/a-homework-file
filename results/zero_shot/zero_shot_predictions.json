@@ -1,0 +1,123 @@
+[
+  {
+    "bbox": [
+      40,
+      12,
+      32,
+      32
+    ],
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.72
+  },
+  {
+    "bbox": [
+      100,
+      12,
+      32,
+      32
+    ],
+    "semantic_concept": "search",
+    "affordance_space": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "subfunctions": [
+      "query",
+      "filter",
+      "navigate"
+    ],
+    "confidence": 0.72
+  },
+  {
+    "bbox": [
+      160,
+      12,
+      32,
+      32
+    ],
+    "semantic_concept": "setting",
+    "affordance_space": [
+      "configure",
+      "modify",
+      "personalize"
+    ],
+    "subfunctions": [
+      "account",
+      "theme",
+      "font",
+      "language"
+    ],
+    "confidence": 0.78
+  },
+  {
+    "bbox": [
+      220,
+      12,
+      32,
+      32
+    ],
+    "semantic_concept": "favorite",
+    "affordance_space": [
+      "save",
+      "unsave",
+      "retrieve"
+    ],
+    "subfunctions": [
+      "save",
+      "unsave",
+      "retrieve"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "bbox": [
+      280,
+      12,
+      32,
+      32
+    ],
+    "semantic_concept": "profile",
+    "affordance_space": [
+      "manage",
+      "edit",
+      "personalize"
+    ],
+    "subfunctions": [
+      "avatar",
+      "account",
+      "security"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "bbox": [
+      340,
+      12,
+      32,
+      32
+    ],
+    "semantic_concept": "notification",
+    "affordance_space": [
+      "view",
+      "dismiss",
+      "configure"
+    ],
+    "subfunctions": [
+      "alerts",
+      "messages",
+      "updates"
+    ],
+    "confidence": 0.68
+  }
+]
